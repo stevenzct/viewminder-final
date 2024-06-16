@@ -1,6 +1,7 @@
 # viewminder-final
 
 Background of the Study
+
 In recent years, the increasing prevalence of videos across various industries has emphasized the necessity of maintaining clear and visible recordings. However, challenges arise when videos are captured in low-light conditions, resulting in quality degradation and hindering practical analysis or information extraction. This demand for improved video quality has led to the development of a Python-based Video-Enhancing Application that addresses common issues encountered in video footage, such as low quality, which can impede the identification of individuals or objects.
 
 
